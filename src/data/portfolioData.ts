@@ -334,6 +334,14 @@ const portfolioData = {
                   },
                 },
                 {
+                  url: "/images/optimized/wisuda-2-thumbnail.webp",
+                  fullUrl: "/images/optimized/wisuda-2-full.webp",
+                  alt: {
+                    id: "Dokumentasi Wisuda UNSIA 2026",
+                    en: "UNSIA Graduation 2026 Documentation",
+                  },
+                },
+                {
                   url: "/images/optimized/wisuda-3-thumbnail.webp",
                   fullUrl: "/images/optimized/wisuda-3-full.webp",
                   alt: {
@@ -385,11 +393,11 @@ const portfolioData = {
         label: { id: "Tahun Pengalaman", en: "Years of Experience" },
       },
       {
-        number: "15+",
+        number: "20+",
         label: { id: "Proyek Selesai", en: "Projects Delivered" },
       },
       {
-        number: "10+",
+        number: "15+",
         label: { id: "Laporan Bug Bounty", en: "Bug Bounty Reports" },
       },
     ],

@@ -14,6 +14,11 @@
     "medium": "/images/optimized//wisuda-3-medium.webp",
     "full": "/images/optimized//wisuda-3-full.webp"
   },
+  "public\\images\\wisuda-2.jpg": {
+    "thumbnail": "/images/optimized//wisuda-2-thumbnail.webp",
+    "medium": "/images/optimized//wisuda-2-medium.webp",
+    "full": "/images/optimized//wisuda-2-full.webp"
+  },
   "public\\images\\wisuda-1.jpg": {
     "thumbnail": "/images/optimized//wisuda-1-thumbnail.webp",
     "medium": "/images/optimized//wisuda-1-medium.webp",
