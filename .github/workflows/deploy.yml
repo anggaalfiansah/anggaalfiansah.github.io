@@ -33,9 +33,9 @@ jobs:
       - name: Build
         run: bun run build
         env:
-          VITE_WA_P1: ${{ secrets.VITE_WA_P1 }}
-          VITE_WA_P2: ${{ secrets.VITE_WA_P2 }}
-          VITE_WA_P3: ${{ secrets.VITE_WA_P3 }}
+          VITE_APP_WA_P1: ${{ secrets.VITE_APP_WA_P1 }}
+          VITE_APP_WA_P2: ${{ secrets.VITE_APP_WA_P2 }}
+          VITE_APP_WA_P3: ${{ secrets.VITE_APP_WA_P3 }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
